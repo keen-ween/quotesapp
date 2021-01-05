@@ -1,5 +1,0 @@
-git init
-git remote add origin git@github.com:keen-ween/quotesapp.git
-git add .
-git commit -m "first commit; vanilla Rails install"
-git push --set-upstream origin master
